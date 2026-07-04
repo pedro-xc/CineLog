@@ -4,6 +4,7 @@
     <string name="menu_buscar">Buscar</string>
     <string name="menu_diario">Diário</string>
     <string name="menu_estatisticas">Estatísticas</string>
+    <string name="titulo_detalhes">Detalhes</string>
 
     <string name="hint_buscar">Buscar filme…</string>
     <string name="hint_nota_pessoal">Nota pessoal (0 a 10)</string>

@@ -34,7 +34,7 @@
     <fragment
         android:id="@+id/detailFragment"
         android:name="com.pedro.cinelog.ui.detail.DetailFragment"
-        android:label=""
+        android:label="@string/titulo_detalhes"
         tools:layout="@layout/fragment_detail">
         <argument
             android:name="tmdbId"
