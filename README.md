@@ -46,9 +46,7 @@ O app precisa de uma chave da API do TMDb para funcionar.
    ```properties
    TMDB_API_KEY=sua_chave_aqui
    ```
-4. Sincronize/recompile o projeto no Android Studio. A chave é injetada em `BuildConfig.TMDB_API_KEY` em tempo de build e nunca fica hardcoded no código-fonte.
-
-> `local.properties` está no `.gitignore` — sua chave nunca é versionada.
+4. Sincronize/recompile o projeto no Android Studio.
 
 ## Rodando o projeto
 
