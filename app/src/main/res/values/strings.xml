@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CineLog</string>
+
+    <string name="menu_buscar">Buscar</string>
+    <string name="menu_diario">Diário</string>
+    <string name="menu_estatisticas">Estatísticas</string>
+
+    <string name="hint_buscar">Buscar filme…</string>
+    <string name="hint_nota_pessoal">Nota pessoal (0 a 10)</string>
+    <string name="hint_comentario">Seu comentário</string>
+
+    <string name="texto_assistido">Assistido</string>
+    <string name="texto_quero_assistir">Quero assistir</string>
+    <string name="botao_salvar">Salvar no diário</string>
+
+    <string name="mensagem_nenhum_resultado">Nenhum resultado encontrado.</string>
+    <string name="mensagem_diario_vazio">Seu diário está vazio. Busque um filme e salve por aqui.</string>
+    <string name="mensagem_salvo_com_sucesso">Salvo no diário!</string>
+
+    <string name="label_total_assistido">Total assistido</string>
+    <string name="label_total_quero_assistir">Quero assistir</string>
+    <string name="label_nota_media">Nota média pessoal</string>
+    <string name="texto_sem_nota">—</string>
+</resources>

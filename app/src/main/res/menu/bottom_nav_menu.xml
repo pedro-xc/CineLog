@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/searchFragment"
+        android:icon="@drawable/ic_search"
+        android:title="@string/menu_buscar" />
+    <item
+        android:id="@+id/diaryFragment"
+        android:icon="@drawable/ic_diary"
+        android:title="@string/menu_diario" />
+    <item
+        android:id="@+id/statsFragment"
+        android:icon="@drawable/ic_stats"
+        android:title="@string/menu_estatisticas" />
+</menu>
