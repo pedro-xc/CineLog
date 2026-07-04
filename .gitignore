@@ -13,7 +13,3 @@
 .externalNativeBuild
 .cxx
 local.properties
-
-# Claude Code / ferramentas de IA
-.claude/
-.claude/**
